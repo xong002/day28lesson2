@@ -1,0 +1,98 @@
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f405"), 
+    "job_id" : NumberInt(1), 
+    "job_desc" : "New Hire - Job not specified", 
+    "min_lvl" : NumberInt(10), 
+    "max_lvl" : NumberInt(10)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f406"), 
+    "job_id" : NumberInt(2), 
+    "job_desc" : "Chief Executive Officer", 
+    "min_lvl" : NumberInt(200), 
+    "max_lvl" : NumberInt(250)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f407"), 
+    "job_id" : NumberInt(3), 
+    "job_desc" : "Business Operations Manager", 
+    "min_lvl" : NumberInt(175), 
+    "max_lvl" : NumberInt(225)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f408"), 
+    "job_id" : NumberInt(4), 
+    "job_desc" : "Chief Financial Officier", 
+    "min_lvl" : NumberInt(175), 
+    "max_lvl" : NumberInt(250)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f409"), 
+    "job_id" : NumberInt(5), 
+    "job_desc" : "Publisher", 
+    "min_lvl" : NumberInt(150), 
+    "max_lvl" : NumberInt(250)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f40a"), 
+    "job_id" : NumberInt(6), 
+    "job_desc" : "Managing Editor", 
+    "min_lvl" : NumberInt(140), 
+    "max_lvl" : NumberInt(225)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f40b"), 
+    "job_id" : NumberInt(7), 
+    "job_desc" : "Marketing Manager", 
+    "min_lvl" : NumberInt(120), 
+    "max_lvl" : NumberInt(200)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f40c"), 
+    "job_id" : NumberInt(8), 
+    "job_desc" : "Public Relations Manager", 
+    "min_lvl" : NumberInt(100), 
+    "max_lvl" : NumberInt(175)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f40d"), 
+    "job_id" : NumberInt(9), 
+    "job_desc" : "Acquisitions Manager", 
+    "min_lvl" : NumberInt(75), 
+    "max_lvl" : NumberInt(175)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f40e"), 
+    "job_id" : NumberInt(10), 
+    "job_desc" : "Productions Manager", 
+    "min_lvl" : NumberInt(75), 
+    "max_lvl" : NumberInt(165)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f40f"), 
+    "job_id" : NumberInt(11), 
+    "job_desc" : "Operations Manager", 
+    "min_lvl" : NumberInt(75), 
+    "max_lvl" : NumberInt(150)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f410"), 
+    "job_id" : NumberInt(12), 
+    "job_desc" : "Editor", 
+    "min_lvl" : NumberInt(25), 
+    "max_lvl" : NumberInt(100)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f411"), 
+    "job_id" : NumberInt(13), 
+    "job_desc" : "Sales Representative", 
+    "min_lvl" : NumberInt(25), 
+    "max_lvl" : NumberInt(100)
+}
+{ 
+    "_id" : ObjectId("5b166fb7b88e1e20cc61f412"), 
+    "job_id" : NumberInt(14), 
+    "job_desc" : "Designer", 
+    "min_lvl" : NumberInt(25), 
+    "max_lvl" : NumberInt(100)
+}

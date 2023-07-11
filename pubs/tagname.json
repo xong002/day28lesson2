@@ -1,0 +1,225 @@
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632ced"), 
+    "TagName_ID" : NumberInt(25), 
+    "Tag" : "Adventure"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cee"), 
+    "TagName_ID" : NumberInt(1), 
+    "Tag" : "Anthropology"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cef"), 
+    "TagName_ID" : NumberInt(2), 
+    "Tag" : "Architecture"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf0"), 
+    "TagName_ID" : NumberInt(3), 
+    "Tag" : "Arts"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf1"), 
+    "TagName_ID" : NumberInt(4), 
+    "Tag" : "Autobiography"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf2"), 
+    "TagName_ID" : NumberInt(5), 
+    "Tag" : "Beauty and Fashion"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf3"), 
+    "TagName_ID" : NumberInt(26), 
+    "Tag" : "Biography"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf4"), 
+    "TagName_ID" : NumberInt(27), 
+    "Tag" : "Business"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf5"), 
+    "TagName_ID" : NumberInt(6), 
+    "Tag" : "Cookery"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf6"), 
+    "TagName_ID" : NumberInt(7), 
+    "Tag" : "Crime"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf7"), 
+    "TagName_ID" : NumberInt(28), 
+    "Tag" : "Criticism"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf8"), 
+    "TagName_ID" : NumberInt(8), 
+    "Tag" : "Culture"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cf9"), 
+    "TagName_ID" : NumberInt(9), 
+    "Tag" : "Current Affairs"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cfa"), 
+    "TagName_ID" : NumberInt(29), 
+    "Tag" : "Fantasy"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cfb"), 
+    "TagName_ID" : NumberInt(10), 
+    "Tag" : "Finance"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cfc"), 
+    "TagName_ID" : NumberInt(30), 
+    "Tag" : "Health"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cfd"), 
+    "TagName_ID" : NumberInt(31), 
+    "Tag" : "Historical"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cfe"), 
+    "TagName_ID" : NumberInt(32), 
+    "Tag" : "Hobbies"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632cff"), 
+    "TagName_ID" : NumberInt(33), 
+    "Tag" : "Horror"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d00"), 
+    "TagName_ID" : NumberInt(34), 
+    "Tag" : "How-to"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d01"), 
+    "TagName_ID" : NumberInt(11), 
+    "Tag" : "Humour"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d02"), 
+    "TagName_ID" : NumberInt(12), 
+    "Tag" : "Legal"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d03"), 
+    "TagName_ID" : NumberInt(35), 
+    "Tag" : "Leisure"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d04"), 
+    "TagName_ID" : NumberInt(36), 
+    "Tag" : "Lifestyle"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d05"), 
+    "TagName_ID" : NumberInt(37), 
+    "Tag" : "Literature"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d06"), 
+    "TagName_ID" : NumberInt(38), 
+    "Tag" : "Men's Interests"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d07"), 
+    "TagName_ID" : NumberInt(13), 
+    "Tag" : "Military"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d08"), 
+    "TagName_ID" : NumberInt(14), 
+    "Tag" : "Mystery"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d09"), 
+    "TagName_ID" : NumberInt(15), 
+    "Tag" : "Nature"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d0a"), 
+    "TagName_ID" : NumberInt(16), 
+    "Tag" : "Philosophy"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d0b"), 
+    "TagName_ID" : NumberInt(39), 
+    "Tag" : "Politics"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d0c"), 
+    "TagName_ID" : NumberInt(17), 
+    "Tag" : "Psychology"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d0d"), 
+    "TagName_ID" : NumberInt(40), 
+    "Tag" : "Romance"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d0e"), 
+    "TagName_ID" : NumberInt(41), 
+    "Tag" : "Science"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d0f"), 
+    "TagName_ID" : NumberInt(42), 
+    "Tag" : "Sci-Fi"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d10"), 
+    "TagName_ID" : NumberInt(18), 
+    "Tag" : "Self-Help"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d11"), 
+    "TagName_ID" : NumberInt(19), 
+    "Tag" : "Short Stories"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d12"), 
+    "TagName_ID" : NumberInt(43), 
+    "Tag" : "Sociology"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d13"), 
+    "TagName_ID" : NumberInt(44), 
+    "Tag" : "Spiritual"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d14"), 
+    "TagName_ID" : NumberInt(20), 
+    "Tag" : "Suspense"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d15"), 
+    "TagName_ID" : NumberInt(21), 
+    "Tag" : "Technology"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d16"), 
+    "TagName_ID" : NumberInt(45), 
+    "Tag" : "Thrillers"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d17"), 
+    "TagName_ID" : NumberInt(22), 
+    "Tag" : "Travel"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d18"), 
+    "TagName_ID" : NumberInt(23), 
+    "Tag" : "Westerns"
+}
+{ 
+    "_id" : ObjectId("5b1670dfb88e1e20cc632d19"), 
+    "TagName_ID" : NumberInt(24), 
+    "Tag" : "Women's Interests"
+}

@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("5b166f61b88e1e20cc61f3ec"), 
+    "discounttype" : "Initial Customer", 
+    "stor_id" : "161G", 
+    "lowqty" : null, 
+    "highqty" : null, 
+    "discount" : 10.5, 
+    "Discount_id" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5b166f61b88e1e20cc61f3ed"), 
+    "discounttype" : "Volume Discount", 
+    "stor_id" : "0T78", 
+    "lowqty" : NumberInt(100), 
+    "highqty" : NumberInt(1000), 
+    "discount" : 6.7, 
+    "Discount_id" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("5b166f61b88e1e20cc61f3ee"), 
+    "discounttype" : "Customer Discount", 
+    "stor_id" : "1FFA", 
+    "lowqty" : null, 
+    "highqty" : null, 
+    "discount" : 5.0, 
+    "Discount_id" : NumberInt(3)
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List of Pokemon</title>
+</head>
+<body>
+    <h1><span data-th-text="${type}"></span> Pokemon:</h1>
+    <p><a href="/">Back to type list</a></p>
+    <table style="border: 1px solid black;">
+        <tr style="border: 1px solid black;" data-th-each="pokemon : ${pokemonList}">
+            <td style="border: 1px solid black;" data-th-text="${pokemon.name}"></td>
+            <td style="border: 1px solid black;"><img data-th-src="@{${pokemon.img}}" alt=""></td>
+        </tr>
+    </table>
+</body>
+</html>
